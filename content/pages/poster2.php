@@ -1,0 +1,1 @@
+<embed src="src/Poster2.pdf" type="application/pdf" class="poster">
